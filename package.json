@@ -1,0 +1,27 @@
+{
+  "name": "node.js",
+  "version": "1.0.0",
+  "description": "node.js project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DogGuyMan/nodeproject.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "DogGuyMan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DogGuyMan/nodeproject/issues"
+  },
+  "homepage": "https://github.com/DogGuyMan/nodeproject#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.1.1",
+    "uuid": "^8.3.2"
+  }
+}
